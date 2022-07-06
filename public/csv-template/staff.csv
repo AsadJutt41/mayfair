@@ -1,0 +1,4 @@
+FirstName,LastName,Email,Password,PhoneNO,Designation,StaffRole,OverLimit,SapID,JoiningDate,BaseTown,Zone,Address,ImageUrl,LineManager
+wazir,khan,wakeeel@gmail.com,12345,11112112,sher,RSM,rms,sap sid,7/7/2022,karachi, zone one,addone,imag,line ssmanage
+khan,saeed,firs@gmail.com,12345,11112112,sher,ASM,rms,sap sid,7/7/2022,Lahore, zone three,add two,image,linaae manage
+dilawar,jan,last@gmail.com,12345g,11112112,sher,RSM,rms,sap sid,7/7/2022,peshawar, zone two,add three,image,line sssmanage
